@@ -18,3 +18,7 @@ async def telegram():
 @app.route('/github')
 async def github():
     return redirect('https://github.com/uhcode')
+
+@app.errorhandler(404)
+async def page_not_found(e):
+    return await render_template('404.html'), 404
