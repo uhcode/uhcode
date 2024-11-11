@@ -1,4 +1,4 @@
 ```
 🌠 Student & Python Developer
-🔗 uhcode.me
+🔗 uhcode.me - CURRENTLY DOWN
 ```
