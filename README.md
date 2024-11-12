@@ -1,5 +1,4 @@
 ```
-🌠 Student & Python Developer
-🔗 find me @ uhcode.me
+👨🏽‍🌾 Python Enthusiast
 ```
 ![Metrics](/github-metrics.svg)
