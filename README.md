@@ -1,5 +1,5 @@
 ```
 👨🏽‍🌾 Python Enthusiast
-🗿 19, Software Developer
+🃏 19, Near death survivalist...
 ```
 ![Metrics](/github-metrics.svg)
