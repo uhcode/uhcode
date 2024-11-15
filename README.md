@@ -3,4 +3,7 @@
 🚀 19. Edinburgh, Scotland
 ```
 
-<img alt="metrics" url="./github-metrics.svg">
+<td colspan="2" align="center">
+  <img src="https://github.com/uhcode/uhcode/github-metrics.svg" alt=""></img>
+  <img width="900" height="1" alt="">
+</td>
